@@ -12,3 +12,6 @@ project repo
 [![Unit Testing - Unity](https://github.com/Bhanu42/M1-_Library-Managemnt-System_utilities/actions/workflows/unity.yml/badge.svg)](https://github.com/Bhanu42/M1-_Library-Managemnt-System_utilities/actions/workflows/unity.yml)
 
 [![CI](https://github.com/Bhanu42/M1-_Library-Managemnt-System_utilities/actions/workflows/main.yml/badge.svg)](https://github.com/Bhanu42/M1-_Library-Managemnt-System_utilities/actions/workflows/main.yml)
+
+
+[![cppcheck-action](https://github.com/Bhanu42/M1-_Library-Managemnt-System_utilities/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Bhanu42/M1-_Library-Managemnt-System_utilities/actions/workflows/c-cpp.yml)
