@@ -27,4 +27,12 @@ project repo
 [![CI](https://github.com/Bhanu42/M1-_Library-Managemnt-System_utilities/actions/workflows/main.yml/badge.svg)](https://github.com/Bhanu42/M1-_Library-Managemnt-System_utilities/actions/workflows/main.yml)
 
 
+
+# credits
+ 
+Unity Project - A Test Framework for C
+    Copyright (c) 2007-21 Mike Karlesky, Mark VanderVoord, Greg Williams
+    [Released under MIT License. Please refer to license.txt for details]
+
+
 [![cppcheck-action](https://github.com/Bhanu42/M1-_Library-Managemnt-System_utilities/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Bhanu42/M1-_Library-Managemnt-System_utilities/actions/workflows/c-cpp.yml)
